@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507741659 source:c:\users\nibiru\dropbox\primer semestre\introducción a la programación\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+
